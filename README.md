@@ -1,5 +1,5 @@
-# A Vue-Native application with a Node.js server and sqlite database.
-
+# Posts_App
+<h3>A Vue-Native application with Node.js and sqlite backend.</h3>
 <p align="center">
 <img src="images/img1.gif" width="350">
 </p>
